@@ -1,0 +1,66 @@
+[submodule "Win10XPE"]
+	path = Win10XPE
+	url = https://github.com/ChrisRfr/Win10XPE.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/LineageOS/scripts.git
+[submodule "better-adb-sync"]
+	path = better-adb-sync
+	url = https://github.com/INT3NSE07/better-adb-sync.git
+[submodule "vendor_gapps"]
+	path = vendor_gapps
+	url = https://gitlab.com/MindTheGapps/vendor_gapps.git
+[submodule "manifests"]
+	path = manifests
+	url = https://github.com/TheMuppets/manifests.git
+[submodule "Magisk"]
+	path = Magisk
+	url = https://github.com/topjohnwu/Magisk.git
+[submodule "flipperzero-firmware"]
+	path = flipperzero-firmware
+	url = https://github.com/flipperdevices/flipperzero-firmware.git
+[submodule "FlipperMusicRTTTL"]
+	path = FlipperMusicRTTTL
+	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
+[submodule "FlipperAmiibosNFC"]
+	path = FlipperAmiibosNFC
+	url = https://github.com/neverfa11ing/FlipperAmiibosNFC.git
+[submodule "FlipperAmiibo"]
+	path = FlipperAmiibo
+	url = https://github.com/RogueMaster/FlipperAmiibo
+[submodule "RogueMaster"]
+	path = RogueMaster
+	url = https://github.com/RogueMaster/RogueMaster
+[submodule "awesome-flipperzero-withModules"]
+	path = awesome-flipperzero-withModules
+	url = https://github.com/RogueMaster/awesome-flipperzero-withModules
+[submodule "flippermaker.github.io"]
+	path = flippermaker.github.io
+	url = https://github.com/RogueMaster/flippermaker.github.io
+[submodule "flipperzero-firmware-wPlugins"]
+	path = flipperzero-firmware-wPlugins
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+[submodule "Flipper_Zero-BadUsb"]
+	path = Flipper_Zero-BadUsb
+	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb.git
+[submodule "Flipper-Zero-BadUSB"]
+	path = Flipper-Zero-BadUSB
+	url = https://github.com/UNC0V3R3D/Flipper-Zero-BadUSB.git
+[submodule "Flipper-IRDB"]
+	path = Flipper-IRDB
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "usbrubberducky-payloads"]
+	path = usbrubberducky-payloads
+	url = https://github.com/hak5/usbrubberducky-payloads.git
+[submodule "bios-pwgen"]
+	path = bios-pwgen
+	url = https://github.com/dogbert/bios-pwgen.git
+[submodule "pwgen-for-bios"]
+	path = pwgen-for-bios
+	url = https://github.com/bacher09/pwgen-for-bios.git
+[submodule "nagioscore"]
+	path = nagioscore
+	url = https://github.com/NagiosEnterprises/nagioscore.git
+[submodule "stable-diffusion-webui"]
+	path = stable-diffusion-webui
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
