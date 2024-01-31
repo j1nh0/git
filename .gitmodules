@@ -64,3 +64,6 @@
 [submodule "stable-diffusion-webui"]
 	path = stable-diffusion-webui
 	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+[submodule "cfg2html"]
+	path = cfg2html
+	url = https://github.com/cfg2html/cfg2html.git
