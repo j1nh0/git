@@ -67,3 +67,6 @@
 [submodule "cfg2html"]
 	path = cfg2html
 	url = https://github.com/cfg2html/cfg2html.git
+[submodule "e7z"]
+	path = e7z
+	url = https://github.com/okigan/e7z.git
