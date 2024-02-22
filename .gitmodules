@@ -70,3 +70,6 @@
 [submodule "e7z"]
 	path = e7z
 	url = https://github.com/okigan/e7z.git
+[submodule "katoolin"]
+	path = katoolin
+	url = https://github.com/LionSec/katoolin.git
