@@ -1,75 +1,100 @@
 [submodule "Win10XPE"]
 	path = Win10XPE
 	url = https://github.com/ChrisRfr/Win10XPE.git
+        ignore = dirty
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/LineageOS/scripts.git
+        ignore = dirty
 [submodule "better-adb-sync"]
 	path = better-adb-sync
 	url = https://github.com/INT3NSE07/better-adb-sync.git
+        ignore = dirty
 [submodule "vendor_gapps"]
 	path = vendor_gapps
 	url = https://gitlab.com/MindTheGapps/vendor_gapps.git
+        ignore = dirty
 [submodule "manifests"]
 	path = manifests
 	url = https://github.com/TheMuppets/manifests.git
+        ignore = dirty
 [submodule "Magisk"]
 	path = Magisk
 	url = https://github.com/topjohnwu/Magisk.git
+        ignore = dirty
 [submodule "flipperzero-firmware"]
 	path = flipperzero-firmware
 	url = https://github.com/flipperdevices/flipperzero-firmware.git
+        ignore = dirty
 [submodule "FlipperMusicRTTTL"]
 	path = FlipperMusicRTTTL
 	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
+        ignore = dirty
 [submodule "FlipperAmiibosNFC"]
 	path = FlipperAmiibosNFC
 	url = https://github.com/neverfa11ing/FlipperAmiibosNFC.git
+        ignore = dirty
 [submodule "FlipperAmiibo"]
 	path = FlipperAmiibo
 	url = https://github.com/RogueMaster/FlipperAmiibo
+        ignore = dirty
 [submodule "RogueMaster"]
 	path = RogueMaster
 	url = https://github.com/RogueMaster/RogueMaster
+        ignore = dirty
 [submodule "awesome-flipperzero-withModules"]
 	path = awesome-flipperzero-withModules
 	url = https://github.com/RogueMaster/awesome-flipperzero-withModules
+        ignore = dirty
 [submodule "flippermaker.github.io"]
 	path = flippermaker.github.io
 	url = https://github.com/RogueMaster/flippermaker.github.io
+        ignore = dirty
 [submodule "flipperzero-firmware-wPlugins"]
 	path = flipperzero-firmware-wPlugins
 	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+        ignore = dirty
 [submodule "Flipper_Zero-BadUsb"]
 	path = Flipper_Zero-BadUsb
 	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb.git
+        ignore = dirty
 [submodule "Flipper-Zero-BadUSB"]
 	path = Flipper-Zero-BadUSB
 	url = https://github.com/UNC0V3R3D/Flipper-Zero-BadUSB.git
+        ignore = dirty
 [submodule "Flipper-IRDB"]
 	path = Flipper-IRDB
 	url = https://github.com/logickworkshop/Flipper-IRDB.git
+        ignore = dirty
 [submodule "usbrubberducky-payloads"]
 	path = usbrubberducky-payloads
 	url = https://github.com/hak5/usbrubberducky-payloads.git
+        ignore = dirty
 [submodule "bios-pwgen"]
 	path = bios-pwgen
 	url = https://github.com/dogbert/bios-pwgen.git
+        ignore = dirty
 [submodule "pwgen-for-bios"]
 	path = pwgen-for-bios
 	url = https://github.com/bacher09/pwgen-for-bios.git
+        ignore = dirty
 [submodule "nagioscore"]
 	path = nagioscore
 	url = https://github.com/NagiosEnterprises/nagioscore.git
+        ignore = dirty
 [submodule "stable-diffusion-webui"]
 	path = stable-diffusion-webui
 	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+        ignore = dirty
 [submodule "cfg2html"]
 	path = cfg2html
 	url = https://github.com/cfg2html/cfg2html.git
+        ignore = dirty
 [submodule "e7z"]
 	path = e7z
 	url = https://github.com/okigan/e7z.git
+        ignore = dirty
 [submodule "katoolin"]
 	path = katoolin
 	url = https://github.com/LionSec/katoolin.git
+        ignore = dirty
